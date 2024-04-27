@@ -1,5 +1,5 @@
 # HotelEase
-A tool to automate the process of searching for hotel deals by buiding a web crawler.
+A tool to automate the process of searching for hotel deals by buiding a web crawler using Selenium.
 
 This tool includes the following features: 
 1. Web Crawler
